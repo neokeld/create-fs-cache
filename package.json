@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "find-cache-dir": "^0.1.1",
-    "mkdirp": "0.5.1"
+    "mkdirp": "^0.5.1"
   },
   "repository": {
     "type": "git",
