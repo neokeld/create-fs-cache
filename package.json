@@ -1,12 +1,12 @@
 {
-  "name": "loader-fs-cache",
+  "name": "create-fs-cache",
   "version": "1.0.2",
-  "description": "A published package of https://github.com/babel/babel-loader/blob/master/src/fs-cache.js",
+  "description": "A fork of viankakrisna/loader-fs-cache",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Ade Viankakrisna Fadlil",
+  "author": "Arnaud Duforat",
   "license": "MIT",
   "dependencies": {
     "find-cache-dir": "^0.1.1",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/viankakrisna/loader-fs-cache.git"
+    "url": "https://github.com/neokeld/create-fs-cache.git"
   }
 }
 
